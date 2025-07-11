@@ -75,8 +75,8 @@ body {
     padding: 80px 5% 60px;
     /* Top, sides, bottom padding */
     text-align: center;
-    background-color: #f0f2f5;
-    /* Match body background */
+
+    background-image: url('../images/hero-bg.jpg');
 }
 
 .hero-title {
